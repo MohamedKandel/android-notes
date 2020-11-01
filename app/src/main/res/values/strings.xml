@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Word</string>
+    <string name="textview">Font Size</string>
+    <string name="bold">Bold</string>
+    <string name="underline">Underline</string>
+    <string name="font_color">Font Color</string>
+    <string name="font">Font</string>
+    <string name="alignment">Alignment</string>
+    <string name="right_to_left">Right</string>
+
+    <string name="left_to_right">Left</string>
+    <string name="file_name">File Name</string>
+    <string name="file_name_here">File Name Here</string>
+    <string name="italic">Italic</string>
+    <string name="write_your_text_here">Write your text here</string>
+    <string name="center">Center</string>
+    <string name="btn_new">New</string>
+    <string name="get_file">Get File</string>
+    <string name="save">Save</string>
+    <string-array name="size">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>28</item>
+        <item>30</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Grey</item>
+    </string-array>
+
+    <string-array name="fonts">
+        <item>Arial</item>
+        <item>Aldhabi</item>
+        <item>Andalus</item>
+        <item>Agency FB</item>
+        <item>Bauhaus 93</item>
+        <item>Bernard MT</item>
+        <item>Brush Script Std</item>
+        <item>Forte</item>
+        <item>Urdu Typesetting</item>
+        <item>Tahoma</item>
+        <item>MonoType Corsiva</item>
+    </string-array>
+</resources>
